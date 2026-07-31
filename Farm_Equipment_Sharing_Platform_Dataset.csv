@@ -1,0 +1,501 @@
+Equipment No,Equipment Name,Owner Name,Availability,District,Phone Number,Rent Per Hour (INR)
+EQ-1001,Tractor,V. Krishna,Available,Nalgonda,9249827706,777
+EQ-1002,Paddy Transplanter,K. Ramakrishna,Available,Medak,8134126396,107
+EQ-1003,Tractor,M. Venkatesh,Available,Mahabubnagar,9868820204,732
+EQ-1004,Tractor,P. Rajesh,Available,Nizamabad,7398704996,403
+EQ-1005,Sprayer (Battery Powered),M. Narsimha,Rented Out,Warangal,8266944844,155
+EQ-1006,Tractor,M. Narsimha,Available,Karimnagar,9485451171,576
+EQ-1007,Tractor,A. Venkat Reddy,Available,Siddipet,8675770529,463
+EQ-1008,Tractor,S. Rajender,Available,Yadadri Bhuvanagiri,7764130526,585
+EQ-1009,Tractor,T. Ravi,Available,Hyderabad,7344703907,795
+EQ-1010,Balers,Mohammad Ali,Available,Yadadri Bhuvanagiri,9508157429,171
+EQ-1011,Seed Drill,J. Prakash,Available,Warangal,8324956459,168
+EQ-1012,Chaff Cutter,P. Rajesh,Available,Medak,7283758720,236
+EQ-1013,Tractor,K. Ashok,Rented Out,Karimnagar,8787194506,752
+EQ-1014,Tractor,D. Mohan,Available,Yadadri Bhuvanagiri,9345938494,416
+EQ-1015,Tractor,B. Laxman,Available,Nalgonda,7870854579,561
+EQ-1016,Power Weeder,G. Bhaskar,Rented Out,Medchal-Malkajgiri,8249926919,163
+EQ-1017,Paddy Transplanter,K. Ashok,Available,Siddipet,7560027313,249
+EQ-1018,Seed Drill,S. Rajender,Available,Medchal-Malkajgiri,7629908599,123
+EQ-1019,Rotavator,M. Narsimha,Available,Medchal-Malkajgiri,7271779360,474
+EQ-1020,Tractor,K. Sridhar,Rented Out,Karimnagar,7602564736,670
+EQ-1021,Balers,P. Satyanarayana,Available,Sangareddy,7222998994,237
+EQ-1022,Cultivator,M. Narsimha,Available,Ranga Reddy,8566825638,140
+EQ-1023,Tractor,J. Prakash,Available,Mahabubnagar,9645119047,454
+EQ-1024,Cultivator,V. Krishna,Available,Medchal-Malkajgiri,8918739736,141
+EQ-1025,Post Hole Digger,D. Mohan,Available,Medak,8624636385,104
+EQ-1026,Balers,K. Ramakrishna,Available,Nalgonda,9358633898,245
+EQ-1027,Power Tiller,M. Venkatesh,Rented Out,Yadadri Bhuvanagiri,9916690353,436
+EQ-1028,Combine Harvester,M. Narsimha,Available,Sangareddy,8690347116,1169
+EQ-1029,Tractor,P. Satyanarayana,Rented Out,Nalgonda,7910959828,773
+EQ-1030,Disc Harrow,P. Rajesh,Available,Karimnagar,7797801251,195
+EQ-1031,Paddy Transplanter,J. Prakash,Rented Out,Ranga Reddy,9341266931,116
+EQ-1032,Rotavator,B. Laxman,Available,Medak,9107721109,318
+EQ-1033,Chaff Cutter,P. Rajesh,Available,Nalgonda,9133729406,184
+EQ-1034,Paddy Transplanter,M. Venkatesh,Available,Khammam,7621209849,154
+EQ-1035,Combine Harvester,D. Mohan,Rented Out,Nalgonda,8967043303,1416
+EQ-1036,Tractor,G. Bhaskar,Rented Out,Warangal,8541417711,639
+EQ-1037,Rotavator,K. Ashok,Available,Hyderabad,8881913386,386
+EQ-1038,Tractor,K. Ramakrishna,Available,Mahabubnagar,8250519597,616
+EQ-1039,Tractor,Chandra Sekhar,Available,Yadadri Bhuvanagiri,9575808013,681
+EQ-1040,Rotavator,K. Ramakrishna,Available,Ranga Reddy,9278575192,404
+EQ-1041,Tractor,M. Raju,Rented Out,Jagtial,9276777762,594
+EQ-1042,Cultivator,Ramesh Kumar,Rented Out,Khammam,8847959430,242
+EQ-1043,Combine Harvester,G. Mohan Rao,Available,Khammam,9162795957,1593
+EQ-1044,Paddy Transplanter,K. Ashok,Available,Siddipet,8161380746,112
+EQ-1045,Thresher,T. Ravi,Available,Hyderabad,7186019028,347
+EQ-1046,Laser Land Leveler,M. Venkatesh,Available,Sangareddy,9533550699,1122
+EQ-1047,Disc Harrow,T. Ravi,Available,Medak,9550139320,249
+EQ-1048,Paddy Transplanter,T. Ravi,Available,Jagtial,8319321646,180
+EQ-1049,Tractor,Y. Srinivasa Rao,Available,Sangareddy,7422119408,634
+EQ-1050,Post Hole Digger,B. Laxman,Available,Hyderabad,8766964667,244
+EQ-1051,Power Tiller,K. Ramakrishna,Available,Mahabubnagar,8242224154,389
+EQ-1052,Disc Harrow,M. Venkatesh,Available,Khammam,9570497096,239
+EQ-1053,Cultivator,P. Rajesh,Available,Sangareddy,7421455482,126
+EQ-1054,Tractor,Anil Kumar,Available,Siddipet,7266910922,539
+EQ-1055,Sprayer (Battery Powered),Mohammad Ali,Available,Nalgonda,7781007818,167
+EQ-1056,Tractor,K. Naresh,Available,Ranga Reddy,7554811020,541
+EQ-1057,Tractor,Suresh Reddy,Available,Sangareddy,8273497327,779
+EQ-1058,Paddy Transplanter,J. Prakash,Rented Out,Mahabubnagar,9220123666,119
+EQ-1059,Combine Harvester,P. Rajesh,Available,Yadadri Bhuvanagiri,8725464884,1565
+EQ-1060,Power Weeder,Anil Kumar,Available,Hyderabad,8491541578,110
+EQ-1061,Tractor,N. Mahender,Available,Sangareddy,9479759538,799
+EQ-1062,Balers,D. Mohan,Rented Out,Medak,7265950383,160
+EQ-1063,Post Hole Digger,Chandra Sekhar,Available,Jagtial,8126614158,145
+EQ-1064,Seed Drill,K. Ashok,Rented Out,Suryapet,7889262019,163
+EQ-1065,Combine Harvester,P. Satyanarayana,Available,Karimnagar,9605399561,1227
+EQ-1066,Balers,G. Bhaskar,Rented Out,Warangal,8981044229,158
+EQ-1067,Rotavator,Y. Srinivasa Rao,Available,Karimnagar,8399147754,317
+EQ-1068,Cultivator,M. Narsimha,Available,Sangareddy,7529151399,237
+EQ-1069,Rotavator,B. Laxman,Available,Jagtial,8291735734,448
+EQ-1070,Rotavator,P. Satyanarayana,Available,Medak,8471178705,486
+EQ-1071,Power Weeder,B. Laxman,Available,Karimnagar,7304095531,165
+EQ-1072,Sprayer (Battery Powered),Suresh Reddy,Rented Out,Hyderabad,7965984448,237
+EQ-1073,Sprayer (Battery Powered),G. Mohan Rao,Available,Warangal,8175133802,184
+EQ-1074,Seed Drill,A. Venkat Reddy,Available,Siddipet,8644518647,179
+EQ-1075,Tractor,G. Mohan Rao,Rented Out,Siddipet,8695295870,465
+EQ-1076,Power Weeder,G. Bhaskar,Rented Out,Sangareddy,7286860433,245
+EQ-1077,Tractor,Mohammad Ali,Available,Khammam,8325681936,620
+EQ-1078,Laser Land Leveler,T. Ravi,Available,Nizamabad,8574765466,1691
+EQ-1079,Paddy Transplanter,G. Bhaskar,Rented Out,Suryapet,7282204745,121
+EQ-1080,Paddy Transplanter,Mohammad Ali,Available,Ranga Reddy,9822408848,179
+EQ-1081,Post Hole Digger,Y. Srinivasa Rao,Available,Medchal-Malkajgiri,9149621604,162
+EQ-1082,Laser Land Leveler,M. Raju,Available,Nizamabad,8776205431,1589
+EQ-1083,Sprayer (Battery Powered),G. Bhaskar,Rented Out,Nizamabad,8361976301,137
+EQ-1084,Sprayer (Battery Powered),V. Krishna,Available,Jagtial,9935822550,208
+EQ-1085,Combine Harvester,Y. Srinivasa Rao,Rented Out,Hyderabad,7367574609,1124
+EQ-1086,Combine Harvester,J. Prakash,Rented Out,Sangareddy,7700141462,1609
+EQ-1087,Post Hole Digger,B. Laxman,Rented Out,Medak,7642001424,209
+EQ-1088,Thresher,D. Mohan,Available,Siddipet,8583258726,366
+EQ-1089,Disc Harrow,M. Narsimha,Available,Suryapet,7620332086,161
+EQ-1090,Thresher,P. Satyanarayana,Available,Siddipet,8351785565,369
+EQ-1091,Seed Drill,B. Laxman,Available,Medchal-Malkajgiri,9348315126,198
+EQ-1092,Combine Harvester,P. Rajesh,Available,Ranga Reddy,8537656494,1338
+EQ-1093,Thresher,D. Mohan,Rented Out,Hyderabad,9994310083,407
+EQ-1094,Post Hole Digger,S. Rajender,Available,Yadadri Bhuvanagiri,7508431021,222
+EQ-1095,Cultivator,Ramesh Kumar,Rented Out,Yadadri Bhuvanagiri,8677909930,239
+EQ-1096,Disc Harrow,A. Venkat Reddy,Rented Out,Nalgonda,8567975319,224
+EQ-1097,Tractor,Ramesh Kumar,Rented Out,Siddipet,9601856351,465
+EQ-1098,Paddy Transplanter,A. Venkat Reddy,Available,Jagtial,8735540030,244
+EQ-1099,Rotavator,G. Mohan Rao,Available,Sangareddy,8245706210,418
+EQ-1100,Rotavator,Chandra Sekhar,Available,Karimnagar,8327268503,416
+EQ-1101,Seed Drill,B. Laxman,Rented Out,Khammam,8370874491,120
+EQ-1102,Rotavator,M. Raju,Available,Warangal,9798086909,317
+EQ-1103,Chaff Cutter,M. Narsimha,Available,Suryapet,9365518424,151
+EQ-1104,Laser Land Leveler,Ramesh Kumar,Available,Nalgonda,9608482316,1685
+EQ-1105,Laser Land Leveler,K. Ramakrishna,Available,Nizamabad,7375139575,1785
+EQ-1106,Combine Harvester,N. Mahender,Available,Suryapet,9433975497,1110
+EQ-1107,Rotavator,T. Ravi,Available,Medak,7502982778,401
+EQ-1108,Disc Harrow,P. Rajesh,Available,Medak,7991819497,162
+EQ-1109,Sprayer (Battery Powered),K. Ramakrishna,Available,Yadadri Bhuvanagiri,7744687060,130
+EQ-1110,Post Hole Digger,T. Ravi,Available,Warangal,7559967386,194
+EQ-1111,Paddy Transplanter,M. Venkatesh,Available,Hyderabad,8982971099,225
+EQ-1112,Power Weeder,K. Ramakrishna,Available,Sangareddy,8859466878,139
+EQ-1113,Combine Harvester,K. Sridhar,Available,Medak,7931764920,1495
+EQ-1114,Power Weeder,J. Prakash,Available,Warangal,9991990632,122
+EQ-1115,Thresher,P. Satyanarayana,Available,Suryapet,8711871397,456
+EQ-1116,Power Weeder,G. Mohan Rao,Available,Hyderabad,8448981305,146
+EQ-1117,Disc Harrow,M. Raju,Available,Suryapet,8465436049,171
+EQ-1118,Sprayer (Battery Powered),A. Venkat Reddy,Available,Mahabubnagar,9654724287,148
+EQ-1119,Disc Harrow,M. Venkatesh,Rented Out,Nizamabad,7914073098,161
+EQ-1120,Thresher,P. Rajesh,Rented Out,Nizamabad,9199915275,375
+EQ-1121,Power Weeder,Y. Srinivasa Rao,Available,Khammam,7724440558,194
+EQ-1122,Paddy Transplanter,M. Raju,Available,Karimnagar,7690975123,184
+EQ-1123,Sprayer (Battery Powered),N. Mahender,Rented Out,Khammam,8369942642,159
+EQ-1124,Sprayer (Battery Powered),K. Ramakrishna,Available,Warangal,9897662466,237
+EQ-1125,Sprayer (Battery Powered),M. Narsimha,Available,Nalgonda,9893070706,223
+EQ-1126,Sprayer (Battery Powered),P. Satyanarayana,Available,Ranga Reddy,9418092217,158
+EQ-1127,Combine Harvester,N. Mahender,Available,Hyderabad,7673523188,1129
+EQ-1128,Rotavator,P. Satyanarayana,Available,Mahabubnagar,8848846217,332
+EQ-1129,Balers,V. Krishna,Rented Out,Ranga Reddy,9716396766,172
+EQ-1130,Thresher,M. Raju,Rented Out,Warangal,9155165334,364
+EQ-1131,Power Tiller,M. Raju,Available,Karimnagar,8179545125,447
+EQ-1132,Chaff Cutter,V. Krishna,Available,Medchal-Malkajgiri,9970957171,244
+EQ-1133,Power Tiller,Mohammad Ali,Available,Ranga Reddy,7920814900,406
+EQ-1134,Laser Land Leveler,A. Venkat Reddy,Available,Suryapet,7508427798,1461
+EQ-1135,Cultivator,J. Prakash,Rented Out,Khammam,7766823010,115
+EQ-1136,Sprayer (Battery Powered),A. Venkat Reddy,Available,Suryapet,9771641650,154
+EQ-1137,Chaff Cutter,P. Satyanarayana,Available,Medchal-Malkajgiri,9286630878,241
+EQ-1138,Combine Harvester,M. Venkatesh,Available,Karimnagar,8840206617,1608
+EQ-1139,Cultivator,M. Raju,Available,Nalgonda,8859088046,172
+EQ-1140,Balers,P. Rajesh,Rented Out,Ranga Reddy,7350636897,167
+EQ-1141,Laser Land Leveler,V. Krishna,Available,Karimnagar,9684719405,1230
+EQ-1142,Combine Harvester,V. Krishna,Available,Yadadri Bhuvanagiri,9176675731,1061
+EQ-1143,Post Hole Digger,Chandra Sekhar,Available,Medak,7985021282,245
+EQ-1144,Thresher,Mohammad Ali,Available,Nizamabad,7426515425,479
+EQ-1145,Cultivator,S. Rajender,Rented Out,Nizamabad,9742136977,110
+EQ-1146,Sprayer (Battery Powered),K. Sridhar,Available,Medak,8127772220,123
+EQ-1147,Chaff Cutter,Y. Srinivasa Rao,Available,Suryapet,7981994345,168
+EQ-1148,Rotavator,T. Ravi,Available,Nizamabad,7799552991,413
+EQ-1149,Combine Harvester,P. Satyanarayana,Rented Out,Sangareddy,8197970787,1481
+EQ-1150,Power Weeder,N. Mahender,Available,Warangal,7212313264,141
+EQ-1151,Power Weeder,B. Laxman,Rented Out,Khammam,7529982328,240
+EQ-1152,Thresher,Suresh Reddy,Available,Warangal,8447112584,329
+EQ-1153,Power Weeder,M. Narsimha,Available,Sangareddy,7596043327,205
+EQ-1154,Disc Harrow,Suresh Reddy,Available,Medak,8771527524,213
+EQ-1155,Rotavator,M. Narsimha,Available,Khammam,7240674381,373
+EQ-1156,Sprayer (Battery Powered),J. Prakash,Rented Out,Ranga Reddy,9776481264,161
+EQ-1157,Combine Harvester,P. Rajesh,Available,Mahabubnagar,9692975437,1417
+EQ-1158,Disc Harrow,M. Venkatesh,Available,Nizamabad,9795472980,139
+EQ-1159,Sprayer (Battery Powered),M. Raju,Available,Mahabubnagar,7393587744,206
+EQ-1160,Thresher,M. Raju,Available,Nizamabad,7255308128,398
+EQ-1161,Laser Land Leveler,G. Bhaskar,Available,Yadadri Bhuvanagiri,9396618390,1791
+EQ-1162,Seed Drill,K. Sridhar,Available,Yadadri Bhuvanagiri,9403696046,176
+EQ-1163,Laser Land Leveler,T. Ravi,Rented Out,Yadadri Bhuvanagiri,9579476614,1551
+EQ-1164,Seed Drill,M. Raju,Available,Mahabubnagar,7505026213,216
+EQ-1165,Balers,B. Laxman,Available,Siddipet,9713963047,198
+EQ-1166,Balers,Y. Srinivasa Rao,Rented Out,Hyderabad,8899621068,221
+EQ-1167,Post Hole Digger,P. Rajesh,Rented Out,Karimnagar,7950826208,138
+EQ-1168,Rotavator,M. Raju,Available,Mahabubnagar,7456476596,325
+EQ-1169,Power Tiller,J. Prakash,Rented Out,Hyderabad,7254785699,404
+EQ-1170,Combine Harvester,V. Krishna,Available,Nizamabad,8463527356,1638
+EQ-1171,Power Weeder,P. Rajesh,Available,Yadadri Bhuvanagiri,8824085842,236
+EQ-1172,Seed Drill,S. Rajender,Rented Out,Yadadri Bhuvanagiri,7138546365,117
+EQ-1173,Chaff Cutter,Y. Srinivasa Rao,Available,Nalgonda,7197044071,211
+EQ-1174,Post Hole Digger,K. Ramakrishna,Available,Nizamabad,9845178074,176
+EQ-1175,Rotavator,Ramesh Kumar,Available,Suryapet,9415001254,391
+EQ-1176,Power Weeder,N. Mahender,Available,Nalgonda,7542437192,244
+EQ-1177,Post Hole Digger,G. Mohan Rao,Available,Medchal-Malkajgiri,9184791618,197
+EQ-1178,Chaff Cutter,A. Venkat Reddy,Available,Nizamabad,7253671484,159
+EQ-1179,Chaff Cutter,J. Prakash,Available,Nizamabad,8816014770,102
+EQ-1180,Cultivator,J. Prakash,Available,Ranga Reddy,8471048258,250
+EQ-1181,Chaff Cutter,Mohammad Ali,Rented Out,Siddipet,8590523712,177
+EQ-1182,Power Weeder,G. Bhaskar,Rented Out,Ranga Reddy,9509486794,246
+EQ-1183,Laser Land Leveler,N. Mahender,Available,Siddipet,8123557463,1674
+EQ-1184,Cultivator,S. Rajender,Available,Medak,7935705734,112
+EQ-1185,Sprayer (Battery Powered),A. Venkat Reddy,Rented Out,Yadadri Bhuvanagiri,8932945529,158
+EQ-1186,Post Hole Digger,A. Venkat Reddy,Available,Nalgonda,7304152670,164
+EQ-1187,Post Hole Digger,G. Mohan Rao,Available,Sangareddy,9773728014,110
+EQ-1188,Post Hole Digger,Mohammad Ali,Rented Out,Hyderabad,7491766764,133
+EQ-1189,Cultivator,M. Venkatesh,Available,Siddipet,8288592093,151
+EQ-1190,Post Hole Digger,Anil Kumar,Available,Mahabubnagar,7392624015,142
+EQ-1191,Balers,P. Satyanarayana,Rented Out,Suryapet,8901611993,186
+EQ-1192,Thresher,K. Ramakrishna,Available,Medchal-Malkajgiri,9826197069,485
+EQ-1193,Power Weeder,G. Mohan Rao,Available,Ranga Reddy,8114945047,167
+EQ-1194,Power Tiller,D. Mohan,Rented Out,Warangal,7904245086,472
+EQ-1195,Laser Land Leveler,P. Satyanarayana,Rented Out,Yadadri Bhuvanagiri,7498866784,1110
+EQ-1196,Disc Harrow,G. Mohan Rao,Rented Out,Hyderabad,7702806585,183
+EQ-1197,Disc Harrow,A. Venkat Reddy,Available,Sangareddy,8852775879,177
+EQ-1198,Power Weeder,V. Krishna,Available,Medchal-Malkajgiri,9139956218,177
+EQ-1199,Power Tiller,M. Raju,Available,Nalgonda,7245668163,399
+EQ-1200,Seed Drill,J. Prakash,Rented Out,Medak,7880179899,139
+EQ-1201,Chaff Cutter,K. Sridhar,Available,Yadadri Bhuvanagiri,8761051532,204
+EQ-1202,Rotavator,P. Satyanarayana,Available,Nalgonda,8577488537,360
+EQ-1203,Power Tiller,N. Mahender,Available,Mahabubnagar,7485123110,315
+EQ-1204,Cultivator,S. Rajender,Available,Ranga Reddy,8198433586,154
+EQ-1205,Chaff Cutter,V. Krishna,Available,Hyderabad,8361530104,132
+EQ-1206,Disc Harrow,T. Ravi,Available,Yadadri Bhuvanagiri,7322433532,250
+EQ-1207,Balers,G. Bhaskar,Available,Warangal,9946799779,100
+EQ-1208,Balers,P. Satyanarayana,Available,Medchal-Malkajgiri,7369137895,144
+EQ-1209,Chaff Cutter,K. Ramakrishna,Available,Medchal-Malkajgiri,9484659715,160
+EQ-1210,Seed Drill,T. Ravi,Available,Medchal-Malkajgiri,8156263020,132
+EQ-1211,Power Weeder,K. Ashok,Available,Siddipet,9611365210,214
+EQ-1212,Seed Drill,M. Narsimha,Available,Nizamabad,7337887233,111
+EQ-1213,Post Hole Digger,K. Ashok,Available,Nizamabad,7133447745,115
+EQ-1214,Balers,M. Raju,Rented Out,Karimnagar,7215923129,225
+EQ-1215,Thresher,P. Rajesh,Available,Jagtial,9445864933,455
+EQ-1216,Power Tiller,Anil Kumar,Available,Khammam,7779760958,449
+EQ-1217,Sprayer (Battery Powered),D. Mohan,Available,Karimnagar,7669681065,175
+EQ-1218,Paddy Transplanter,J. Prakash,Rented Out,Ranga Reddy,7222851168,241
+EQ-1219,Balers,K. Ashok,Available,Karimnagar,8345343109,205
+EQ-1220,Balers,B. Laxman,Rented Out,Karimnagar,8883415470,124
+EQ-1221,Power Weeder,B. Laxman,Available,Sangareddy,8501902658,139
+EQ-1222,Thresher,G. Mohan Rao,Available,Ranga Reddy,9200105056,410
+EQ-1223,Sprayer (Battery Powered),K. Ramakrishna,Available,Suryapet,9697398528,115
+EQ-1224,Paddy Transplanter,T. Ravi,Available,Sangareddy,9541102414,190
+EQ-1225,Post Hole Digger,G. Mohan Rao,Rented Out,Yadadri Bhuvanagiri,7155239803,173
+EQ-1226,Cultivator,A. Venkat Reddy,Available,Ranga Reddy,7644830077,154
+EQ-1227,Chaff Cutter,Anil Kumar,Rented Out,Nalgonda,9475932035,242
+EQ-1228,Power Tiller,N. Mahender,Available,Medak,9966747347,409
+EQ-1229,Post Hole Digger,D. Mohan,Available,Medak,7990626742,168
+EQ-1230,Combine Harvester,Ramesh Kumar,Available,Siddipet,8464883950,1359
+EQ-1231,Combine Harvester,Ramesh Kumar,Available,Medak,7530338918,1071
+EQ-1232,Sprayer (Battery Powered),Anil Kumar,Available,Ranga Reddy,7669601448,155
+EQ-1233,Power Weeder,S. Rajender,Rented Out,Warangal,9497341481,179
+EQ-1234,Seed Drill,K. Ashok,Available,Jagtial,9267052653,140
+EQ-1235,Laser Land Leveler,M. Narsimha,Available,Sangareddy,9392168202,1453
+EQ-1236,Power Weeder,G. Mohan Rao,Rented Out,Medak,8544726404,169
+EQ-1237,Post Hole Digger,G. Bhaskar,Available,Warangal,8219066986,172
+EQ-1238,Chaff Cutter,G. Mohan Rao,Rented Out,Mahabubnagar,7431162800,111
+EQ-1239,Power Weeder,Y. Srinivasa Rao,Available,Hyderabad,9423646570,154
+EQ-1240,Combine Harvester,M. Narsimha,Available,Khammam,8228832213,1007
+EQ-1241,Sprayer (Battery Powered),M. Raju,Rented Out,Medchal-Malkajgiri,9508244633,236
+EQ-1242,Disc Harrow,P. Rajesh,Available,Ranga Reddy,8896760809,110
+EQ-1243,Rotavator,K. Sridhar,Rented Out,Jagtial,9436146289,447
+EQ-1244,Laser Land Leveler,K. Sridhar,Rented Out,Siddipet,7548495473,1296
+EQ-1245,Power Weeder,K. Ramakrishna,Available,Warangal,9960413104,217
+EQ-1246,Seed Drill,P. Rajesh,Available,Karimnagar,9361259074,211
+EQ-1247,Power Weeder,T. Ravi,Available,Karimnagar,8900801837,186
+EQ-1248,Seed Drill,Y. Srinivasa Rao,Available,Ranga Reddy,7779919809,129
+EQ-1249,Paddy Transplanter,K. Naresh,Available,Jagtial,8476990466,137
+EQ-1250,Power Tiller,Y. Srinivasa Rao,Available,Khammam,9286293158,454
+EQ-1251,Post Hole Digger,Anil Kumar,Available,Medchal-Malkajgiri,7630554118,218
+EQ-1252,Laser Land Leveler,M. Narsimha,Rented Out,Sangareddy,7790407222,1650
+EQ-1253,Seed Drill,A. Venkat Reddy,Available,Medchal-Malkajgiri,8173321814,220
+EQ-1254,Chaff Cutter,J. Prakash,Available,Suryapet,8735032128,114
+EQ-1255,Paddy Transplanter,N. Mahender,Available,Khammam,8585238820,109
+EQ-1256,Seed Drill,Suresh Reddy,Available,Ranga Reddy,7196955134,229
+EQ-1257,Thresher,S. Rajender,Available,Nizamabad,7799905142,348
+EQ-1258,Laser Land Leveler,B. Laxman,Rented Out,Mahabubnagar,9166436383,1461
+EQ-1259,Post Hole Digger,K. Ramakrishna,Available,Siddipet,9641755366,144
+EQ-1260,Disc Harrow,Suresh Reddy,Rented Out,Nizamabad,7661296425,140
+EQ-1261,Seed Drill,N. Mahender,Available,Karimnagar,8931575232,186
+EQ-1262,Laser Land Leveler,G. Mohan Rao,Available,Suryapet,7795038832,1342
+EQ-1263,Seed Drill,M. Venkatesh,Available,Mahabubnagar,7515070154,172
+EQ-1264,Sprayer (Battery Powered),P. Satyanarayana,Available,Warangal,9725711790,136
+EQ-1265,Cultivator,N. Mahender,Rented Out,Medchal-Malkajgiri,7861104727,121
+EQ-1266,Paddy Transplanter,Mohammad Ali,Rented Out,Sangareddy,8973150512,132
+EQ-1267,Sprayer (Battery Powered),G. Mohan Rao,Available,Sangareddy,7554629125,230
+EQ-1268,Rotavator,N. Mahender,Available,Khammam,9329987621,387
+EQ-1269,Thresher,M. Narsimha,Available,Nalgonda,9266371119,319
+EQ-1270,Balers,Mohammad Ali,Available,Mahabubnagar,7996703082,234
+EQ-1271,Chaff Cutter,Suresh Reddy,Available,Jagtial,7240712839,196
+EQ-1272,Combine Harvester,Anil Kumar,Available,Yadadri Bhuvanagiri,7927959968,1639
+EQ-1273,Sprayer (Battery Powered),Chandra Sekhar,Rented Out,Hyderabad,8491163514,160
+EQ-1274,Laser Land Leveler,J. Prakash,Available,Suryapet,7941599226,1459
+EQ-1275,Paddy Transplanter,Y. Srinivasa Rao,Available,Khammam,8996696177,149
+EQ-1276,Chaff Cutter,N. Mahender,Rented Out,Nizamabad,8935504321,197
+EQ-1277,Paddy Transplanter,K. Naresh,Rented Out,Medchal-Malkajgiri,9960345542,135
+EQ-1278,Rotavator,P. Satyanarayana,Rented Out,Yadadri Bhuvanagiri,8695433590,326
+EQ-1279,Balers,P. Rajesh,Available,Khammam,9919390458,141
+EQ-1280,Thresher,P. Satyanarayana,Available,Yadadri Bhuvanagiri,8198476695,356
+EQ-1281,Seed Drill,J. Prakash,Available,Karimnagar,9525689202,228
+EQ-1282,Disc Harrow,N. Mahender,Rented Out,Ranga Reddy,8341096660,107
+EQ-1283,Power Tiller,B. Laxman,Available,Suryapet,9247746438,309
+EQ-1284,Balers,Mohammad Ali,Rented Out,Siddipet,9914799481,220
+EQ-1285,Laser Land Leveler,J. Prakash,Available,Jagtial,9120405269,1262
+EQ-1286,Balers,G. Bhaskar,Available,Mahabubnagar,7753780028,235
+EQ-1287,Power Tiller,K. Sridhar,Available,Nalgonda,8230833665,312
+EQ-1288,Power Weeder,Y. Srinivasa Rao,Rented Out,Ranga Reddy,9998386592,227
+EQ-1289,Paddy Transplanter,A. Venkat Reddy,Available,Sangareddy,7717452511,161
+EQ-1290,Combine Harvester,P. Rajesh,Available,Karimnagar,9760146764,1361
+EQ-1291,Laser Land Leveler,Y. Srinivasa Rao,Rented Out,Medchal-Malkajgiri,7817490291,1087
+EQ-1292,Seed Drill,K. Naresh,Available,Mahabubnagar,7644738967,229
+EQ-1293,Rotavator,D. Mohan,Rented Out,Yadadri Bhuvanagiri,8146744734,462
+EQ-1294,Seed Drill,S. Rajender,Available,Siddipet,9483426624,117
+EQ-1295,Disc Harrow,N. Mahender,Available,Suryapet,7889401015,185
+EQ-1296,Rotavator,Anil Kumar,Available,Mahabubnagar,8973498494,464
+EQ-1297,Balers,Chandra Sekhar,Rented Out,Siddipet,8778321204,146
+EQ-1298,Power Tiller,Anil Kumar,Rented Out,Hyderabad,8316456682,311
+EQ-1299,Rotavator,G. Bhaskar,Available,Jagtial,8653388913,401
+EQ-1300,Thresher,D. Mohan,Available,Hyderabad,7305195749,373
+EQ-1301,Balers,N. Mahender,Available,Yadadri Bhuvanagiri,7456401418,169
+EQ-1302,Post Hole Digger,K. Ramakrishna,Available,Karimnagar,8898120571,212
+EQ-1303,Seed Drill,S. Rajender,Available,Nizamabad,7634211672,194
+EQ-1304,Cultivator,K. Naresh,Available,Siddipet,8184747224,210
+EQ-1305,Balers,A. Venkat Reddy,Available,Mahabubnagar,8444898148,126
+EQ-1306,Seed Drill,M. Venkatesh,Available,Khammam,8747060047,209
+EQ-1307,Sprayer (Battery Powered),Chandra Sekhar,Rented Out,Warangal,8145478504,190
+EQ-1308,Power Weeder,A. Venkat Reddy,Available,Sangareddy,9180574838,203
+EQ-1309,Paddy Transplanter,N. Mahender,Available,Hyderabad,9752376434,212
+EQ-1310,Combine Harvester,Suresh Reddy,Available,Nalgonda,7493342201,1370
+EQ-1311,Laser Land Leveler,S. Rajender,Available,Medak,9829137330,1460
+EQ-1312,Seed Drill,N. Mahender,Rented Out,Suryapet,9716243819,135
+EQ-1313,Seed Drill,K. Naresh,Rented Out,Warangal,7399240862,163
+EQ-1314,Rotavator,K. Ramakrishna,Available,Nizamabad,7515524530,443
+EQ-1315,Cultivator,K. Ramakrishna,Available,Siddipet,8330393232,173
+EQ-1316,Thresher,P. Rajesh,Available,Ranga Reddy,9179512774,415
+EQ-1317,Sprayer (Battery Powered),Chandra Sekhar,Rented Out,Ranga Reddy,7443154754,188
+EQ-1318,Power Tiller,P. Rajesh,Available,Jagtial,8269119969,482
+EQ-1319,Sprayer (Battery Powered),P. Rajesh,Available,Suryapet,8646272321,157
+EQ-1320,Disc Harrow,K. Ramakrishna,Available,Nalgonda,8128222260,192
+EQ-1321,Laser Land Leveler,D. Mohan,Available,Nizamabad,7239340792,1626
+EQ-1322,Power Tiller,M. Venkatesh,Available,Karimnagar,7871880418,422
+EQ-1323,Power Weeder,K. Naresh,Rented Out,Yadadri Bhuvanagiri,7179189225,132
+EQ-1324,Chaff Cutter,B. Laxman,Available,Nizamabad,8830261466,232
+EQ-1325,Combine Harvester,N. Mahender,Available,Suryapet,9564520346,1514
+EQ-1326,Balers,Suresh Reddy,Available,Mahabubnagar,9426551245,142
+EQ-1327,Seed Drill,Chandra Sekhar,Available,Warangal,7404994549,120
+EQ-1328,Disc Harrow,P. Satyanarayana,Available,Medchal-Malkajgiri,7425155441,236
+EQ-1329,Paddy Transplanter,M. Venkatesh,Available,Medak,7265564833,143
+EQ-1330,Laser Land Leveler,G. Mohan Rao,Available,Yadadri Bhuvanagiri,7144232045,1029
+EQ-1331,Rotavator,M. Venkatesh,Available,Sangareddy,9923515952,446
+EQ-1332,Laser Land Leveler,K. Sridhar,Available,Nizamabad,7685809361,1296
+EQ-1333,Cultivator,V. Krishna,Rented Out,Nalgonda,7536038528,176
+EQ-1334,Power Tiller,J. Prakash,Available,Medchal-Malkajgiri,8546270451,423
+EQ-1335,Disc Harrow,J. Prakash,Available,Medak,9435632899,181
+EQ-1336,Balers,K. Ashok,Available,Karimnagar,9916757816,194
+EQ-1337,Paddy Transplanter,K. Naresh,Available,Warangal,9600871106,131
+EQ-1338,Thresher,P. Satyanarayana,Available,Medchal-Malkajgiri,9154337019,374
+EQ-1339,Balers,S. Rajender,Rented Out,Nalgonda,9973465185,183
+EQ-1340,Sprayer (Battery Powered),T. Ravi,Available,Nalgonda,9635008544,231
+EQ-1341,Thresher,J. Prakash,Available,Nizamabad,9196689473,400
+EQ-1342,Thresher,K. Naresh,Available,Nalgonda,7478918222,312
+EQ-1343,Cultivator,Suresh Reddy,Rented Out,Medak,7822113500,220
+EQ-1344,Paddy Transplanter,Mohammad Ali,Available,Yadadri Bhuvanagiri,9562705171,134
+EQ-1345,Sprayer (Battery Powered),P. Satyanarayana,Available,Suryapet,8492922240,111
+EQ-1346,Rotavator,S. Rajender,Available,Warangal,7409883716,318
+EQ-1347,Paddy Transplanter,S. Rajender,Rented Out,Suryapet,7400347789,130
+EQ-1348,Power Tiller,Anil Kumar,Rented Out,Warangal,8698967370,393
+EQ-1349,Combine Harvester,M. Narsimha,Available,Medak,7530986098,1512
+EQ-1350,Rotavator,Suresh Reddy,Available,Medchal-Malkajgiri,7457599735,421
+EQ-1351,Thresher,K. Naresh,Available,Medak,7250088694,383
+EQ-1352,Seed Drill,A. Venkat Reddy,Available,Karimnagar,7893838119,176
+EQ-1353,Seed Drill,T. Ravi,Rented Out,Siddipet,7421897671,221
+EQ-1354,Seed Drill,Ramesh Kumar,Available,Sangareddy,9547256709,249
+EQ-1355,Post Hole Digger,Mohammad Ali,Available,Medak,8385111130,248
+EQ-1356,Disc Harrow,T. Ravi,Available,Medak,8283085932,234
+EQ-1357,Sprayer (Battery Powered),V. Krishna,Rented Out,Medchal-Malkajgiri,7360056579,108
+EQ-1358,Sprayer (Battery Powered),T. Ravi,Available,Nalgonda,9573561557,180
+EQ-1359,Combine Harvester,K. Sridhar,Rented Out,Siddipet,9540639384,1513
+EQ-1360,Laser Land Leveler,M. Narsimha,Rented Out,Yadadri Bhuvanagiri,7881042056,1063
+EQ-1361,Combine Harvester,P. Rajesh,Available,Mahabubnagar,8811060614,1489
+EQ-1362,Power Weeder,K. Naresh,Available,Medchal-Malkajgiri,8672440825,187
+EQ-1363,Seed Drill,D. Mohan,Available,Medak,8306442077,163
+EQ-1364,Paddy Transplanter,P. Satyanarayana,Available,Nalgonda,8928042067,173
+EQ-1365,Disc Harrow,P. Rajesh,Rented Out,Warangal,8474524558,243
+EQ-1366,Cultivator,K. Ashok,Available,Ranga Reddy,7826517607,239
+EQ-1367,Power Weeder,S. Rajender,Available,Suryapet,9411871167,110
+EQ-1368,Sprayer (Battery Powered),Mohammad Ali,Available,Warangal,8804344630,165
+EQ-1369,Thresher,K. Ashok,Available,Nalgonda,7391126537,443
+EQ-1370,Cultivator,P. Rajesh,Available,Ranga Reddy,7895525625,250
+EQ-1371,Disc Harrow,Y. Srinivasa Rao,Available,Sangareddy,7342313086,159
+EQ-1372,Power Tiller,Suresh Reddy,Rented Out,Warangal,7607239833,325
+EQ-1373,Post Hole Digger,G. Mohan Rao,Available,Hyderabad,7269587940,204
+EQ-1374,Thresher,V. Krishna,Rented Out,Sangareddy,9911653317,373
+EQ-1375,Cultivator,B. Laxman,Available,Jagtial,9800400428,246
+EQ-1376,Paddy Transplanter,Y. Srinivasa Rao,Available,Jagtial,9548700579,145
+EQ-1377,Balers,Suresh Reddy,Rented Out,Suryapet,8300050585,174
+EQ-1378,Rotavator,Suresh Reddy,Available,Medak,7215213239,385
+EQ-1379,Thresher,Mohammad Ali,Rented Out,Jagtial,9641394238,419
+EQ-1380,Disc Harrow,P. Satyanarayana,Available,Warangal,9885033297,217
+EQ-1381,Cultivator,V. Krishna,Available,Hyderabad,7461971444,175
+EQ-1382,Chaff Cutter,T. Ravi,Available,Medchal-Malkajgiri,7785826598,203
+EQ-1383,Paddy Transplanter,K. Sridhar,Available,Ranga Reddy,8818608005,124
+EQ-1384,Combine Harvester,Chandra Sekhar,Rented Out,Warangal,9107333788,1267
+EQ-1385,Disc Harrow,S. Rajender,Rented Out,Suryapet,8453932473,177
+EQ-1386,Sprayer (Battery Powered),T. Ravi,Available,Khammam,7486066116,160
+EQ-1387,Chaff Cutter,Suresh Reddy,Available,Nizamabad,8271494637,203
+EQ-1388,Paddy Transplanter,G. Mohan Rao,Available,Siddipet,9785811060,175
+EQ-1389,Laser Land Leveler,N. Mahender,Available,Nalgonda,9613443905,1156
+EQ-1390,Sprayer (Battery Powered),J. Prakash,Available,Karimnagar,7689736058,220
+EQ-1391,Paddy Transplanter,M. Narsimha,Available,Suryapet,9830511568,120
+EQ-1392,Thresher,K. Naresh,Available,Ranga Reddy,7220483278,315
+EQ-1393,Paddy Transplanter,D. Mohan,Available,Medak,7260902774,142
+EQ-1394,Balers,B. Laxman,Rented Out,Ranga Reddy,7320548167,249
+EQ-1395,Power Tiller,M. Raju,Rented Out,Suryapet,9586869229,333
+EQ-1396,Power Weeder,K. Naresh,Rented Out,Medak,9700003920,218
+EQ-1397,Post Hole Digger,G. Mohan Rao,Available,Siddipet,9525146690,165
+EQ-1398,Sprayer (Battery Powered),Ramesh Kumar,Available,Medak,9148629555,208
+EQ-1399,Sprayer (Battery Powered),N. Mahender,Available,Mahabubnagar,9174108740,220
+EQ-1400,Cultivator,Suresh Reddy,Rented Out,Medchal-Malkajgiri,9922301213,207
+EQ-1401,Power Weeder,N. Mahender,Rented Out,Yadadri Bhuvanagiri,8503346325,120
+EQ-1402,Chaff Cutter,G. Mohan Rao,Available,Sangareddy,8227381397,145
+EQ-1403,Power Weeder,D. Mohan,Available,Siddipet,9996382881,100
+EQ-1404,Rotavator,M. Narsimha,Available,Nizamabad,7872121274,439
+EQ-1405,Paddy Transplanter,K. Sridhar,Rented Out,Yadadri Bhuvanagiri,9365764028,217
+EQ-1406,Combine Harvester,N. Mahender,Available,Nalgonda,7921938559,1115
+EQ-1407,Post Hole Digger,Suresh Reddy,Rented Out,Medak,9358413465,152
+EQ-1408,Power Tiller,M. Venkatesh,Available,Nizamabad,7821579885,480
+EQ-1409,Disc Harrow,Suresh Reddy,Available,Karimnagar,8351619881,238
+EQ-1410,Post Hole Digger,G. Bhaskar,Available,Medchal-Malkajgiri,7410594268,159
+EQ-1411,Laser Land Leveler,K. Ashok,Available,Medak,7929506584,1688
+EQ-1412,Disc Harrow,B. Laxman,Available,Jagtial,9808897689,233
+EQ-1413,Power Weeder,Y. Srinivasa Rao,Available,Khammam,9697771523,144
+EQ-1414,Chaff Cutter,V. Krishna,Rented Out,Mahabubnagar,8150341410,188
+EQ-1415,Chaff Cutter,V. Krishna,Rented Out,Suryapet,7442238518,206
+EQ-1416,Combine Harvester,K. Sridhar,Available,Karimnagar,9910048118,1550
+EQ-1417,Disc Harrow,M. Raju,Available,Khammam,7254996504,218
+EQ-1418,Paddy Transplanter,Suresh Reddy,Rented Out,Karimnagar,7669074377,134
+EQ-1419,Disc Harrow,S. Rajender,Available,Nalgonda,8794395127,120
+EQ-1420,Balers,J. Prakash,Available,Ranga Reddy,7878016905,148
+EQ-1421,Cultivator,Suresh Reddy,Rented Out,Sangareddy,7747382621,110
+EQ-1422,Disc Harrow,M. Venkatesh,Available,Nizamabad,9457517705,177
+EQ-1423,Disc Harrow,Ramesh Kumar,Available,Siddipet,9901955461,222
+EQ-1424,Sprayer (Battery Powered),Y. Srinivasa Rao,Available,Karimnagar,9692790631,182
+EQ-1425,Cultivator,M. Narsimha,Rented Out,Nizamabad,7796559239,191
+EQ-1426,Cultivator,Mohammad Ali,Available,Mahabubnagar,8600368062,125
+EQ-1427,Thresher,K. Ashok,Available,Jagtial,9498041381,380
+EQ-1428,Rotavator,K. Sridhar,Available,Siddipet,9117415986,366
+EQ-1429,Laser Land Leveler,D. Mohan,Rented Out,Khammam,9310659326,1337
+EQ-1430,Power Weeder,Y. Srinivasa Rao,Available,Nizamabad,7802879944,186
+EQ-1431,Post Hole Digger,P. Satyanarayana,Rented Out,Siddipet,7894133105,225
+EQ-1432,Combine Harvester,J. Prakash,Available,Medchal-Malkajgiri,9873430762,1559
+EQ-1433,Combine Harvester,M. Raju,Available,Mahabubnagar,9179811669,1684
+EQ-1434,Post Hole Digger,Suresh Reddy,Available,Karimnagar,9777210736,159
+EQ-1435,Sprayer (Battery Powered),M. Venkatesh,Available,Hyderabad,9643026584,216
+EQ-1436,Rotavator,N. Mahender,Rented Out,Sangareddy,8116891857,301
+EQ-1437,Paddy Transplanter,D. Mohan,Rented Out,Hyderabad,9668457864,170
+EQ-1438,Cultivator,D. Mohan,Available,Mahabubnagar,7823737375,210
+EQ-1439,Power Tiller,Chandra Sekhar,Available,Mahabubnagar,9358738317,349
+EQ-1440,Paddy Transplanter,A. Venkat Reddy,Available,Yadadri Bhuvanagiri,8387037751,201
+EQ-1441,Seed Drill,M. Venkatesh,Rented Out,Nizamabad,7361142486,157
+EQ-1442,Chaff Cutter,Mohammad Ali,Available,Sangareddy,7915599098,108
+EQ-1443,Power Weeder,M. Venkatesh,Rented Out,Karimnagar,7611106584,114
+EQ-1444,Rotavator,V. Krishna,Available,Ranga Reddy,8565906941,465
+EQ-1445,Laser Land Leveler,B. Laxman,Available,Jagtial,7145689604,1235
+EQ-1446,Balers,G. Bhaskar,Rented Out,Khammam,9179830621,171
+EQ-1447,Laser Land Leveler,D. Mohan,Available,Medchal-Malkajgiri,8116812751,1212
+EQ-1448,Combine Harvester,T. Ravi,Rented Out,Jagtial,9421346113,1166
+EQ-1449,Disc Harrow,T. Ravi,Rented Out,Sangareddy,7456192204,198
+EQ-1450,Sprayer (Battery Powered),M. Narsimha,Available,Suryapet,7877564713,120
+EQ-1451,Sprayer (Battery Powered),K. Naresh,Available,Hyderabad,9569319938,159
+EQ-1452,Seed Drill,M. Venkatesh,Rented Out,Suryapet,8131810311,169
+EQ-1453,Thresher,J. Prakash,Available,Warangal,7503111666,410
+EQ-1454,Chaff Cutter,Chandra Sekhar,Rented Out,Ranga Reddy,7417161302,163
+EQ-1455,Power Tiller,P. Rajesh,Available,Khammam,9508021882,482
+EQ-1456,Combine Harvester,V. Krishna,Rented Out,Warangal,8214408183,1093
+EQ-1457,Cultivator,Ramesh Kumar,Rented Out,Warangal,8209770151,133
+EQ-1458,Combine Harvester,M. Venkatesh,Rented Out,Nizamabad,7695647539,1524
+EQ-1459,Power Tiller,K. Sridhar,Available,Ranga Reddy,8695088987,323
+EQ-1460,Laser Land Leveler,A. Venkat Reddy,Available,Yadadri Bhuvanagiri,8113250637,1298
+EQ-1461,Power Weeder,K. Sridhar,Available,Siddipet,7360642799,246
+EQ-1462,Combine Harvester,K. Naresh,Rented Out,Medchal-Malkajgiri,9388749542,1308
+EQ-1463,Thresher,P. Satyanarayana,Available,Ranga Reddy,9566730092,370
+EQ-1464,Cultivator,K. Sridhar,Rented Out,Suryapet,9487754927,164
+EQ-1465,Sprayer (Battery Powered),Y. Srinivasa Rao,Rented Out,Medak,7309968304,217
+EQ-1466,Combine Harvester,K. Ramakrishna,Available,Hyderabad,8456715514,1635
+EQ-1467,Post Hole Digger,S. Rajender,Available,Nizamabad,8562370643,134
+EQ-1468,Seed Drill,Mohammad Ali,Available,Nizamabad,8290736564,201
+EQ-1469,Cultivator,B. Laxman,Rented Out,Medak,9449917685,196
+EQ-1470,Balers,P. Satyanarayana,Rented Out,Warangal,9705429879,151
+EQ-1471,Paddy Transplanter,T. Ravi,Available,Sangareddy,7128900946,218
+EQ-1472,Disc Harrow,P. Rajesh,Rented Out,Suryapet,8992582047,117
+EQ-1473,Chaff Cutter,K. Sridhar,Rented Out,Medchal-Malkajgiri,7425164079,161
+EQ-1474,Chaff Cutter,P. Satyanarayana,Available,Siddipet,8947264726,196
+EQ-1475,Thresher,M. Venkatesh,Rented Out,Medak,8673772626,429
+EQ-1476,Power Weeder,P. Rajesh,Available,Suryapet,8853374076,237
+EQ-1477,Chaff Cutter,A. Venkat Reddy,Available,Ranga Reddy,9806094391,190
+EQ-1478,Chaff Cutter,Chandra Sekhar,Available,Medak,7827429909,202
+EQ-1479,Seed Drill,M. Narsimha,Rented Out,Ranga Reddy,9205877984,166
+EQ-1480,Paddy Transplanter,Y. Srinivasa Rao,Available,Nizamabad,8519977113,218
+EQ-1481,Chaff Cutter,M. Narsimha,Available,Warangal,9618371508,126
+EQ-1482,Power Weeder,Mohammad Ali,Available,Ranga Reddy,7252122560,189
+EQ-1483,Seed Drill,Mohammad Ali,Rented Out,Suryapet,9659542785,223
+EQ-1484,Thresher,N. Mahender,Available,Nizamabad,7848143863,415
+EQ-1485,Power Tiller,B. Laxman,Available,Hyderabad,7223571865,305
+EQ-1486,Chaff Cutter,B. Laxman,Available,Sangareddy,9895094534,162
+EQ-1487,Combine Harvester,K. Naresh,Available,Warangal,7557810637,1473
+EQ-1488,Post Hole Digger,Y. Srinivasa Rao,Rented Out,Sangareddy,9300131434,210
+EQ-1489,Rotavator,S. Rajender,Available,Nizamabad,7561228852,399
+EQ-1490,Sprayer (Battery Powered),Ramesh Kumar,Available,Nalgonda,8907803348,116
+EQ-1491,Power Tiller,T. Ravi,Available,Warangal,8311606895,417
+EQ-1492,Cultivator,K. Ramakrishna,Rented Out,Mahabubnagar,7436515102,199
+EQ-1493,Power Weeder,A. Venkat Reddy,Available,Warangal,8591624059,144
+EQ-1494,Sprayer (Battery Powered),G. Mohan Rao,Available,Jagtial,7733688460,121
+EQ-1495,Combine Harvester,G. Mohan Rao,Available,Ranga Reddy,9427899285,1119
+EQ-1496,Seed Drill,Chandra Sekhar,Available,Mahabubnagar,8549080818,135
+EQ-1497,Power Weeder,T. Ravi,Rented Out,Medchal-Malkajgiri,8782364690,237
+EQ-1498,Chaff Cutter,P. Rajesh,Available,Mahabubnagar,9625749126,173
+EQ-1499,Combine Harvester,Anil Kumar,Available,Yadadri Bhuvanagiri,8765086407,1054
+EQ-1500,Rotavator,N. Mahender,Rented Out,Medchal-Malkajgiri,9975331448,398

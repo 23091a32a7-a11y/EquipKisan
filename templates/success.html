@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Booking Successful</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<div class="page-wrapper">
+    <div class="container">
+        <div class="message-card">
+            <h2>Booking Successful</h2>
+            <p><strong>Equipment:</strong> {{ equipment }}</p>
+            <p><strong>Owner:</strong> {{ owner }}</p>
+            <p><strong>Payment:</strong> {{ payment }}</p>
+            <p class="note">Your equipment has been reserved successfully. Check your email for confirmation and next steps.</p>
+            <a href="/my-bookings" class="secondary-link">View My Bookings</a>
+            <a href="/browse" class="secondary-link" style="margin-left:12px">Browse More Equipment</a>
+        </div>
+    </div>
+</div>
+</body>
+</html>

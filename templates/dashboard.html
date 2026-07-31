@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Equipment Recommendation</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<div class="page-wrapper">
+    <div class="container">
+        {% include '_nav.html' %}
+
+        <h2 style="margin:0 0 4px">Hi, {{ session.user_name }}</h2>
+        <p style="margin-top:0">Tell us about your farm and we will suggest the most suitable equipment for your tasks.</p>
+        <a href="/browse" class="secondary-link">🔍 Browse all equipment →</a>
+
+        {% with messages = get_flashed_messages() %}
+          {% if messages %}
+            <div class="flash">
+              {% for message in messages %}
+                <p>{{ message }}</p>
+              {% endfor %}
+            </div>
+          {% endif %}
+        {% endwith %}
+
+        <div class="form-card">
+            <form action="/recommend" method="POST">                <div>
+                    <label for="area">Area (sq.ft)</label>
+                    <input id="area" type="number" name="area" value="{{ area }}" placeholder="Enter your farm area" required>
+                </div>
+
+                <div>
+                    <label for="crop">Crop Type</label>
+                    <select id="crop" name="crop" required>
+                        <option value="Rice" {% if crop == 'Rice' %}selected{% endif %}>Rice</option>
+                        <option value="Cotton" {% if crop == 'Cotton' %}selected{% endif %}>Cotton</option>
+                        <option value="Maize" {% if crop == 'Maize' %}selected{% endif %}>Maize</option>
+                    </select>
+                </div>
+
+                <div>
+                    <label for="work">Field Work</label>
+                    <select id="work" name="work" required>
+                        <option value="Ploughing" {% if work == 'Ploughing' %}selected{% endif %}>Ploughing</option>
+                        <option value="Sowing" {% if work == 'Sowing' %}selected{% endif %}>Sowing</option>
+                        <option value="Spraying" {% if work == 'Spraying' %}selected{% endif %}>Spraying</option>
+                        <option value="Harvesting" {% if work == 'Harvesting' %}selected{% endif %}>Harvesting</option>
+                        <option value="Weeding" {% if work == 'Weeding' %}selected{% endif %}>Weeding</option>
+                        <option value="Tilling" {% if work == 'Tilling' %}selected{% endif %}>Tilling</option>
+                        <option value="Leveling" {% if work == 'Leveling' %}selected{% endif %}>Leveling</option>
+                        <option value="Chaff Cutting" {% if work == 'Chaff Cutting' %}selected{% endif %}>Chaff Cutting</option>
+                    </select>
+                </div>
+
+                <button type="submit">Suggest Equipment</button>
+            </form>
+        </div>
+
+        {% if equipment_list %}
+            <div class="card" style="margin-top: 24px;">
+                <h2>Recommended Equipment</h2>
+                <p class="info-text">For <strong>{{ area }} sq.ft</strong> with <strong>{{ work }}</strong> work, we recommend:</p>
+                <ul>
+                {% for eq in equipment_list %}
+                    <li>{{ eq }}{% if eq in available_list %} <span style="color:#1f7a40;">(Available)</span>{% else %} <span style="color:#b91c1c;">(Unavailable)</span>{% endif %}</li>
+                {% endfor %}
+                </ul>
+                <div class="form-card" style="margin-top: 12px;">
+                    <form action="/search" method="POST">
+                        <div>
+                            <label for="district">Search by District</label>
+                            <input id="district" type="text" name="district" placeholder="Enter district to find owners" required>
+                        </div>
+                        <div>
+                            <label for="equipment">Equipment</label>
+                            <select id="equipment" name="equipment" required>
+                            {% for eq in equipment_list %}
+                                <option value="{{ eq }}">{{ eq }}</option>
+                            {% endfor %}
+                            </select>
+                        </div>
+                        <button type="submit">View Owners</button>
+                    </form>
+                </div>
+            </div>
+        {% endif %}
+    </div>
+</div>
+</body>
+</html>

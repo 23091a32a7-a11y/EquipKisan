@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Available Equipment Owners</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<div class="page-wrapper">
+    <div class="container">
+        {% include '_nav.html' %}
+
+        <h1 style="margin:0">Available Equipment Owners</h1>
+            <p>Browse nearby owners, compare rental rates, and reserve equipment in a few simple steps.</p>
+
+        {% with messages = get_flashed_messages() %}
+          {% if messages %}
+            <div class="flash">
+              {% for message in messages %}
+                <p>{{ message }}</p>
+              {% endfor %}
+            </div>
+          {% endif %}
+        {% endwith %}
+
+        <div class="list-card">
+            {% if data %}
+                {% for row in data %}
+                    <div class="equipment-card">
+                        <div>
+                            <h2>{{ row[1] }}</h2>
+                            <p><strong>Owner:</strong> {{ row[2] }}</p>
+                            <p><strong>District:</strong> {{ row[4] }}</p>
+                            <p><strong>Phone:</strong> {{ row[5] }}</p>
+                            <p><strong>Rent:</strong> ₹{{ row[6] }}/hour</p>
+                        </div>
+
+                        <form action="/book" method="POST" class="form-card">
+                            <input type="hidden" name="owner" value="{{ row[2] }}">
+                            <input type="hidden" name="equipment" value="{{ row[1] }}">
+                            <input type="hidden" name="equipment_no" value="{{ row[0] }}">
+                            <input type="hidden" name="district" value="{{ row[4] }}">
+                            <input type="hidden" name="phone" value="{{ row[5] }}">
+                            <input type="hidden" name="rent" value="{{ row[6] }}">
+
+                            <div>
+                                <label for="email-{{ loop.index }}">Your Email</label>
+                                <input id="email-{{ loop.index }}" type="email" name="user_email" value="{{ session.user_email }}" required>
+                            </div>
+
+                            <div>
+                                <label for="payment-{{ loop.index }}">Payment Method</label>
+                                <select id="payment-{{ loop.index }}" name="payment" required>
+                                    <option value="">Select Payment Method</option>
+                                    <option value="Cash">Cash</option>
+                                    <option value="UPI">UPI</option>
+                                    <option value="Card">Card</option>
+                                </select>
+                            </div>
+
+                            <button type="submit">Book Now</button>
+                        </form>
+                    </div>
+                {% endfor %}
+            {% else %}
+                <div class="message-card">
+                    <h3>No equipment available in this district.</h3>
+                    <p class="note">Try another district or adjust your search criteria to find available owners.</p>
+                </div>
+            {% endif %}
+        </div>
+    </div>
+</div>
+</body>
+</html>

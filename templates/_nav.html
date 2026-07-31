@@ -1,0 +1,9 @@
+<div class="topnav">
+    <a href="/dashboard" class="{{ 'active' if request.path == '/dashboard' else '' }}">Dashboard</a>
+    <a href="/browse" class="{{ 'active' if request.path == '/browse' else '' }}">Browse Equipment</a>
+    <a href="/my-bookings" class="{{ 'active' if request.path == '/my-bookings' else '' }}">My Bookings</a>
+    <span class="topnav-right">
+        <span class="topnav-user">👤 {{ session.user_name }}</span>
+        <a href="/logout" class="logout-link">Logout</a>
+    </span>
+</div>
